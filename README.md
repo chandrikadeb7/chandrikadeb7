@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my Personal Website
 - 🌱 I’m currently learning Front-end Development and Spring Boot
-- 👯 I’m looking to collaborate on my project [Face Mask Detection](https://github.com/chandrikadeb7/Face-Mask-Detection)
+- 👯 I’m looking to collaborate for my project [Face Mask Detection](https://github.com/chandrikadeb7/Face-Mask-Detection)
 - 🤔 I’m looking for help with Gatsby
 - 💬 Ask me about anything, I'm happy to help!
 - 📫 How to reach me: chandrikadeb7@gmail.com
