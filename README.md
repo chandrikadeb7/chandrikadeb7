@@ -2,7 +2,9 @@
   <img src="https://github.com/chandrikadeb7/chandrikadeb7/blob/master/readme.gif">
 </p>
  
-## :rainbow: Hey Profile Visitor :eyes:
+## :rainbow: Hey Profile Visitor :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=chandrikadeb7 alt=chandrikadeb7/></p>
+
 
 ### Wanna stalk my website:question::point_right: [Click Here](https://chandrikadeb7.github.io/):sparkles:
 
