@@ -29,10 +29,8 @@
 <code>[GirlScript Twitter Bot](https://github.com/chandrikadeb7/Girlscript-Twitter-Bot)</code>:robot:     
 
 ### Wanna see my blogs:question::fire:
-<code>[How I aced all my interviews? — A fresher’s guide](https://medium.com/coderbyte/how-i-aced-all-my-interviews-a-freshers-guide-b8a0b1b2694f)</code>:zap:  
-<code>[How to make a Twitter Bot in Python?](https://www.geeksforgeeks.org/how-to-make-a-twitter-bot-in-python/)</code>:bulb:  
-<code>[Portfolio Website — The Beginners’ Way!](https://medium.com/analytics-vidhya/portfolio-website-the-beginners-way-d43be855217e)</code>:desktop_computer:	     
-<code>[GitHub for Beginners](https://medium.com/analytics-vidhya/github-for-beginners-bb1b6d9911a4)</code>:beginner:     
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ### What can I help with:question::cyclone:
 <code>git commit -m "Pretty much nerd stuffs and Math!"</code> :grin:
