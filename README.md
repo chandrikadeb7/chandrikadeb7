@@ -12,6 +12,8 @@
 <code>git commit -m "Hello, I'm a Software Engineering Associate at [Amdocs](https://www.amdocs.com/)"</code>
 
 ### Where did I work earlier:question::woman_technologist:
+<code>* [The Sparks Foundation](https://www.thesparksfoundationsingapore.org/) [Content Development Intern]</code>    
+<code>* [Caim Consulting](https://caimconsulting.in/) [Web Developer]</code>    
 <code>* [iSmile Technologies](https://www.ismiletechnologies.com/) [Technical Writer]</code>  
 <code>* [Open Source Code](https://opensourcecode.tech/) [Content Writer]</code>      
 <code>* [Uplift Project](https://www.girlscript.tech/programs/uplift/index.html) [Mentor]</code>    
@@ -21,7 +23,7 @@
 <code>* [XLRI Jamshedpur](https://www.xlri.ac.in/) [Summer Research Intern]</code>    
   
 ### What am I learning:question::point_down:	
-<code>var topics = ["Javascript" , "Microservices" , "Spring"];</code>
+<code>var topics = ["Flutter" , "AWS" , "Spring"];</code>
 
 ### What are my featured projects:question::rocket:
 <code>[100DaysOfCode](https://github.com/chandrikadeb7/100DaysOfCode)</code>:hourglass:     
