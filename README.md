@@ -23,7 +23,7 @@
 <code>* [XLRI Jamshedpur](https://www.xlri.ac.in/) [Summer Research Intern]</code>    
   
 ### What am I learning:question::point_down:	
-<code>var topics = ["Flutter" , "AWS" , "Spring"];</code>
+<code>var topics = ["Flutter", "AWS", "Unity"];</code>
 
 ### What are my featured projects:question::rocket:
 <code>[100DaysOfCode](https://github.com/chandrikadeb7/100DaysOfCode)</code>:hourglass:     
