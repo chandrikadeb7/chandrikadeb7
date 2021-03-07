@@ -32,11 +32,11 @@
 
 ### Wanna see my blogs:question::fire:
 <!-- BLOG-POST-LIST:START -->
+- [Python Roadmap to follow in 2021](https://medium.com/@chandrikadeb7/python-roadmap-to-follow-in-2021-1f49715468ca?source=rss-5c8e98221095------2)
 - [The One-Stop Web Development Roadmap to follow in 2021](https://dev.to/chandrikadeb7/the-one-stop-web-development-roadmap-to-follow-in-2021-4oa4)
 - [How to make a Twitterbot?](https://dev.to/chandrikadeb7/how-to-make-a-twitterbot-3p13)
 - [Creativity vs Innovation —The silver linings of the pandemic year 2020](https://medium.com/agileinsider/creativity-vs-innovation-the-silver-linings-of-the-pandemic-year-2020-13c159683cb7?source=rss-5c8e98221095------2)
 - [Pure CSS Art: From Zero to Hero](https://medium.com/analytics-vidhya/pure-css-art-from-zero-to-hero-b15d11f96702?source=rss-5c8e98221095------2)
-- [How I aced all my interviews? — A fresher’s guide](https://medium.com/coderbyte/how-i-aced-all-my-interviews-a-freshers-guide-b8a0b1b2694f?source=rss-5c8e98221095------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### What can I help with:question::cyclone:
