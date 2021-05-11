@@ -11,17 +11,17 @@
 
 <p align="left"> <a href="https://twitter.com/chandrikadeb7" target="blank"><img src="https://img.shields.io/twitter/follow/chandrikadeb7?logo=twitter&style=for-the-badge" alt="chandrikadeb7" /></a> </p>
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning about **AWS and Apache Spark**
 
-- 👨‍💻 All of my projects are available at [https://chandrikadeb7.github.io/](https://chandrikadeb7.github.io/)
+- 👨‍💻 All about myself is available at [My Website](https://chandrikadeb7.github.io/)
 
-- 📝 I regularly write articles on [https://chandrikadeb7.medium.com/](https://chandrikadeb7.medium.com/)
+- 📝 I seldom write articles on [Medium](https://chandrikadeb7.medium.com/)
 
-- 💬 Ask me about **Java, Python, ML**
+- 💬 Ask me about **Java, Python, EDA, ML**
 
 - 📫 How to reach me **chandrikadeb7@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fDa-vLW7xO3HZPJju7AhB5_jH5YG5YKV/view?usp=sharing](https://drive.google.com/file/d/1fDa-vLW7xO3HZPJju7AhB5_jH5YG5YKV/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1fDa-vLW7xO3HZPJju7AhB5_jH5YG5YKV/view?usp=sharing)
 
 ### What are my featured projects:question::rocket:
 <code>[100DaysOfCode](https://github.com/chandrikadeb7/100DaysOfCode)</code>:hourglass:     
