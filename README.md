@@ -7,21 +7,23 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandrikadeb7&label=Profile%20views&color=0e75b6&style=flat" alt="chandrikadeb7" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chandrikadeb7" alt="chandrikadeb7" /></a> </p>
+![Banner](https://user-images.githubusercontent.com/29686102/122269982-7af63100-cefb-11eb-8ea0-b7a53bdf1cb9.png)
 
 <p align="left"> <a href="https://twitter.com/chandrikadeb7" target="blank"><img src="https://img.shields.io/twitter/follow/chandrikadeb7?logo=twitter&style=for-the-badge" alt="chandrikadeb7" /></a> </p>
 
 - 🌱 I’m currently learning about **AWS and Apache Spark**
 
-- 👨‍💻 All about myself is available at [My Website](https://chandrikadeb7.github.io/)
+- 👨‍💻 All about me is available at [My Website](https://chandrikadeb7.github.io/)
 
-- 📝 I seldom write articles on [Medium](https://chandrikadeb7.medium.com/)
+- 📝 Sometimes I write articles on [Medium](https://chandrikadeb7.medium.com/)
 
 - 💬 Ask me about **Java, Python, EDA, ML**
 
+- 📂 Purchase Face Mask Detection Report and Slides on [Gumroad](https://gum.co/GetFaceMask)
+
 - 📫 How to reach me **chandrikadeb7@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1fDa-vLW7xO3HZPJju7AhB5_jH5YG5YKV/view?usp=sharing)
+- 📄 Know about my work & experiences [My Resume](https://drive.google.com/file/d/1Yn1CsXy92q98CYk5cWTySB4_CpY8Q9ej/view?usp=sharing)
 
 ### What are my featured projects:question::rocket:
 <code>[100DaysOfCode](https://github.com/chandrikadeb7/100DaysOfCode)</code>:hourglass:     
