@@ -32,7 +32,7 @@
 
 ### Wanna see my blogs:question::fire:
 <!-- BLOG-POST-LIST:START -->
-- [IntelliJ Idea tricks that I use daily — Java/Spring MS Handling](https://medium.com/swlh/intellij-idea-tricks-that-i-use-daily-java-spring-ms-handling-40bc1239d371?source=rss-5c8e98221095------2)
+- [IntelliJ Idea tricks that I use daily — Java/Spring MS Handling](https://medium.com/analytics-vidhya/intellij-idea-tricks-that-i-use-daily-java-spring-ms-handling-40bc1239d371?source=rss-5c8e98221095------2)
 - [Python Roadmap to follow in 2021](https://medium.com/analytics-vidhya/python-roadmap-to-follow-in-2021-1f49715468ca?source=rss-5c8e98221095------2)
 - [The One-Stop Web Development Roadmap to follow in 2021](https://dev.to/chandrikadeb7/the-one-stop-web-development-roadmap-to-follow-in-2021-4oa4)
 - [How to make a Twitterbot?](https://dev.to/chandrikadeb7/how-to-make-a-twitterbot-3p13)
