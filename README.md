@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning about **AWS and Apache Spark**
 
-- 👨‍💻 All about me is available at [My Website](https://chandrikadeb7.github.io/)
+- 👨‍💻 All about me is at [My Website](https://chandrikadeb7.github.io/)
 
 - 📝 Sometimes I write articles on [Medium](https://chandrikadeb7.medium.com/)
 
