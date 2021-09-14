@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Chandrika Deb</h1>
 <h3 align="center">git commit -m "Hello, I'm a Software Engineering Associate at Amdocs"</h3>
 
-### Wanna stalk my website:question::point_right: [Click Here](https://chandrikadeb7.github.io/):sparkles:
+### Liked my contributions:question::point_right: [Nominate Me for GitHub Stars](https://stars.github.com/nominate/) :star: :sparkles:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandrikadeb7&label=Profile%20views&color=0e75b6&style=flat" alt="chandrikadeb7" /> </p>
 
