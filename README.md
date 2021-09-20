@@ -1,9 +1,7 @@
-## :rainbow: Hey Profile Visitor :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-
-<h1 align="center">Hi 👋, I'm Chandrika Deb</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Chandrika Deb</h1>
 <h3 align="center">git commit -m "Hello, I'm a Software Engineering Associate at Amdocs"</h3>
 
-### Liked my contributions:question::point_right: [Nominate Me for GitHub Stars](https://stars.github.com/nominate/) :star: :sparkles:
+### Liked my Contributions:question::point_right: [Nominate Me for GitHub Stars](https://stars.github.com/nominate/) :star: :sparkles:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandrikadeb7&label=Profile%20views&color=0e75b6&style=flat" alt="chandrikadeb7" /> </p>
 
@@ -11,13 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/chandrikadeb7" target="blank"><img src="https://img.shields.io/twitter/follow/chandrikadeb7?logo=twitter&style=for-the-badge" alt="chandrikadeb7" /></a> </p>
 
-- 🌱 I’m currently learning about **AWS and Apache Spark**
+### Liked my GitHub:question::point_right: [Sponsor me a Dollar](https://t.co/z1ya8nt5mT?amp=1) 💰 💵 :sparkles:
 
 - 👨‍💻 All about me is at [My Website](https://chandrikadeb7.github.io/)
 
 - 📝 Sometimes I write articles on [Medium](https://chandrikadeb7.medium.com/)
 
-- 💬 Ask me about **Java, Python, EDA, ML**
+- 💬 Ask me about ``` var topics = [ "Java", "Spring", "Python", "CSS" ] ```
 
 - 📂 Purchase Face Mask Detection Report and Slides on [Gumroad](https://gum.co/GetFaceMask)
 
@@ -38,7 +36,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ### What can I help with:question::cyclone:
-<code>git commit -m "Pretty much nerd stuffs and Math!"</code> :grin:
+<code>git commit -m "All about GitHub!"</code> :grin:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -54,5 +52,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/chandrikadeb7"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="chandrikadeb7" /></a></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=chandrikadeb7&show_icons=true&locale=en" alt="chandrikadeb7" /></p>
