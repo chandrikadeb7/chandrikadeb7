@@ -31,10 +31,9 @@
 ### Wanna see my blogs:question::fire:
 <!-- BLOG-POST-LIST:START -->
 - [Using MDX with Docz Has Never Been This Easy!](https://dev.to/chandrikadeb7/using-mdx-with-docz-has-never-been-this-easy-19b2)
-- [How I earned more than $1000 from a side project?](https://medium.com/geekculture/how-i-earned-more-than-1000-from-a-side-project-7b2475ff9f62?source=rss-5c8e98221095------2)
-- [How to Create a Kick-ass GitHub Profile that attracts Top Tech Jobs?](https://medium.com/geekculture/how-to-create-a-kick-ass-github-profile-that-attracts-top-tech-jobs-784e618b9048?source=rss-5c8e98221095------2)
-- [IntelliJ Idea tricks that I use daily — Java/Spring MS Handling](https://medium.com/coderbyte/intellij-idea-tricks-that-i-use-daily-java-spring-ms-handling-40bc1239d371?source=rss-5c8e98221095------2)
-- [Python Roadmap to follow in 2021](https://medium.com/analytics-vidhya/python-roadmap-to-follow-in-2021-1f49715468ca?source=rss-5c8e98221095------2)
+- [The One-Stop Web Development Roadmap to follow in 2021](https://dev.to/chandrikadeb7/the-one-stop-web-development-roadmap-to-follow-in-2021-4oa4)
+- [How to make a Twitterbot?](https://dev.to/chandrikadeb7/how-to-make-a-twitterbot-3p13)
+- [[Face Mask Detection - My major project]](https://dev.to/chandrikadeb7/face-mask-detection-my-major-project-3fj3)
 <!-- BLOG-POST-LIST:END -->
 
 ### What can I help with:question::cyclone:
