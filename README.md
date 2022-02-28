@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Chandrika Deb</h1>
-<h3 align="center">git commit -m "Hello, I'm a Software Engineering Associate at Amdocs"</h3>
+<h3 align="center">git commit -m "Hello, I'm a Software Developer at Amdocs"</h3>
 
 ### Liked my Contributions:question::point_right: [Nominate Me for GitHub Stars](https://stars.github.com/nominate/) :star: :sparkles:
 
