@@ -30,11 +30,11 @@
 
 ### Wanna see my blogs:question::fire:
 <!-- BLOG-POST-LIST:START -->
+- [Connect your Chatwoot to Netlify integration in 10 minutes](https://medium.com/analytics-vidhya/connect-your-chatwoot-to-netlify-integration-in-10-minutes-f75d01a29a73?source=rss-5c8e98221095------2)
 - [SAP Testing Best Practices](https://medium.com/geekculture/sap-testing-best-practices-e4ead283bff9?source=rss-5c8e98221095------2)
 - [Using MDX with Docz Has Never Been This Easy!](https://dev.to/chandrikadeb7/using-mdx-with-docz-has-never-been-this-easy-19b2)
 - [How I earned more than $1000 from a side project?](https://medium.com/geekculture/how-i-earned-more-than-1000-from-a-side-project-7b2475ff9f62?source=rss-5c8e98221095------2)
 - [How to Create a Kick-ass GitHub Profile that attracts Top Tech Jobs?](https://medium.com/geekculture/how-to-create-a-kick-ass-github-profile-that-attracts-top-tech-jobs-784e618b9048?source=rss-5c8e98221095------2)
-- [IntelliJ Idea tricks that I use daily — Java/Spring MS Handling](https://medium.com/coderbyte/intellij-idea-tricks-that-i-use-daily-java-spring-ms-handling-40bc1239d371?source=rss-5c8e98221095------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### What can I help with:question::cyclone:
