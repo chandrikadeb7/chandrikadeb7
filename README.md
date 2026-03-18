@@ -31,10 +31,10 @@
 ### Wanna see my blogs:question::fire:
 <!-- BLOG-POST-LIST:START -->
 - [Connect your Chatwoot to Netlify integration in 10 minutes](https://dev.to/chandrikadeb7/connect-your-chatwoot-to-netlify-integration-in-10-minutes-310l)
+- [How my 22 month developer experience at Amdocs shaped my career?](https://medium.com/geekculture/how-my-22-month-developer-experience-at-amdocs-shaped-my-career-77697802a1a2?source=rss-5c8e98221095------2)
+- [Connect your Chatwoot to Netlify integration in 10 minutes](https://medium.com/geekculture/connect-your-chatwoot-to-netlify-integration-in-10-minutes-f75d01a29a73?source=rss-5c8e98221095------2)
+- [SAP Testing Best Practices](https://medium.com/geekculture/sap-testing-best-practices-e4ead283bff9?source=rss-5c8e98221095------2)
 - [Using MDX with Docz Has Never Been This Easy!](https://dev.to/chandrikadeb7/using-mdx-with-docz-has-never-been-this-easy-19b2)
-- [The One-Stop Web Development Roadmap to follow in 2021](https://dev.to/chandrikadeb7/the-one-stop-web-development-roadmap-to-follow-in-2021-4oa4)
-- [How to make a Twitterbot?](https://dev.to/chandrikadeb7/how-to-make-a-twitterbot-3p13)
-- [[Face Mask Detection - My major project]](https://dev.to/chandrikadeb7/face-mask-detection-my-major-project-3fj3)
 <!-- BLOG-POST-LIST:END -->
 
 ### What can I help with:question::cyclone:
